@@ -1,4 +1,4 @@
-baseURL = 'http://soleone.xyz/'
+baseURL = 'https://soleone.xyz/'
 languageCode = 'en-us'
 title = 'Soleone'
 theme = 'poison'
